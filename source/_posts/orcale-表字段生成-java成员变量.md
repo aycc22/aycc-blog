@@ -2,6 +2,7 @@
 title: 表字段生成 java成员变量
 date: 2019-07-10 10:08:52
 tags: java
+category: java
 ---
 ## orcale
 ```sql
